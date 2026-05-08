@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with ultimate Script for Alfred for macOS - offline access and real-time editing, the #1 script. Includes offline access and real-time editing for a
 
 
 
